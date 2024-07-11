@@ -1,0 +1,238 @@
+sorting_1,even
+active.amateursportsteams,Amateur Sports Team
+active.amusementparks.ride,Amusement Park Ride
+active.animalsports.bullring,Bull Ring
+active.animalsports.rodeoarena,Rodeo Arena
+active.aquariums,Aquarium
+active.archery,Archery Range
+active.athletic_facilities.baseballfield,Baseball Field
+active.athletic_facilities.footballfield,Football Field
+active.boating.yachtclubs,Yacht Club
+active.fitness.qigong,Qi Gong
+active.fitness.yoga,Yoga Studio
+active.jetskis,Jet Ski Shop
+active.parks.urbanpark,Urban Park
+active.rafting,Rafting Outfitter
+active.sailing,Sailing School & Club
+active.self_defense_class,Self-defense Class
+active.skatingrinks.icerinks,Ice Skating Rink
+active.sledding,Sledding Area
+active.snorkeling,Snorkeling
+active.zipline,Ziplining Adventures
+active.zoos,Zoo
+active.zorbing,Zorbing
+arts.movietheaters.outdoormovies,Outdoor Movie Theater
+arts.museums.artmuseums,Art Museum
+arts.museums.childrensmuseums,Children's Museum
+arts.museums.sports_museum,Sports Museum
+arts.theater,Theater
+arts.virtualrealitycenters,Virtual Reality Center
+auto.aircraftdealers,Aircraft Dealer
+auto.aircraftrepairs,Aircraft Repair
+auto.auto_detailing,Car Detailing Service
+auto.autocustomization,Auto Customization
+auto.autoelectric,Auto Electric Service
+auto.autoglass.car_window_tinting,Car Window Tinting
+auto.autoloanproviders,Car Loan Agency
+auto.autopartssupplies,Auto Parts Store
+auto.autorepair.car_hybrid_repair,Hybrid Car Repair
+auto.autosecurity.car_interlock_system,Interlock System
+auto.autoupholstery,Car Upholstery Shop
+auto.carauctions,Car Auction Center
+auto.evcharger.dcfast,EV Fast Charging
+beautysvc.hairremoval.sugaring,Sugaring Service
+beautysvc.hotsprings,Hot Spring
+beautysvc.massage,Massages
+beautysvc.othersalons,Nail Salon
+beautysvc.othersalons.nailtechnicians,Nail Technician
+beautysvc.piercing,Body Piercing Shop
+beautysvc.spas,Spa
+bicycles.bikeassociations,Bicycle Association
+bicycles.bikerepair,Bicycle Repair
+bicycles.bikeshop,Bicycle Shop
+bicycles.specialbikes,Special Bikes
+education,Educational Institution
+education.academicspaces.computerlab,Computer Lab
+education.collegeuniv,Colleges & Universities
+education.collegeuniv.academic_department,University Department
+education.collegeuniv.engineering,Engineering School
+education.elementaryschools,Elementary School
+education.middleschool,Middle School
+education.privateschools,Private School
+education.specialtyschools.dance_schools,Dance School
+education.specialtyschools.dramaschools,Drama School
+education.specialtyschools.driving_schools,Driving School
+education.specialtyschools.firearmtraining,Firearm Training Academy
+education.specialtyschools.firstaidclasses,First Aid Classes
+education.specialtyschools.poledancingclasses,Pole Dancing School
+education.specialtyschools.realestateschools,Real Estate School
+education.specialtyschools.sambaschools,Samba School
+education.specialtyschools.skischools,Ski School
+education.studentorgs.fraternity_sorority,Fraternity and Sorority
+education.tastingclasses,Tasting Classes
+education.tastingclasses.cheesetastingclasses,Cheese Tasting Classes
+education.testprep,Educational Consulting
+eventservices,Event Services
+eventservices.partyequipmentrentals,Party Equipment Rental
+eventservices.personalchefs,Personal Chef
+eventservices.photoboothrentals,Photo Booth Rental
+eventservices.photographers,Photography Service
+eventservices.photographers.eventphotography,Event Photography
+financialservices.moneytransfer,Money Transfer Service
+food.bagels,Bagel Store
+food.bakeries,Bakery
+food.beer_and_wine,Liquor Store
+food.boxedmeal,Boxed Meal Supplier
+food.bubbletea,Bubble Tea Store
+food.desserts,Dessert Shop
+food.gelato,Gelateria
+food.gourmet.candy,Candy Store
+food.gourmet.candy.dagashi,Dagashi Shop
+food.gourmet.ethnicmarkets,Ethnic Food
+food.gourmet.healthmarkets,Gourmet Market
+food.gourmet.macarons,Macaron Shop
+food.gourmet.tofu,Tofu Shop
+food.grocery,Grocery Store
+food.grocery.bakery.organic_bakery,Organic Bakery
+food.grocery.discount_grocery,Discount Grocery Store
+food.grocery.general_store,General Store
+food.grocery.german_grocery,German Grocery Store
+food.grocery.indiangrocery,Indian Grocery Store
+food.grocery.international_grocery,International Grocery Store
+food.grocery.japanesegrocery,Japanese Grocery Store
+food.grocery.koreangrocery,Korean Grocery Store
+food.grocery.koshergrocery_store,Kosher Grocery Store
+food.icecream,Ice Cream
+food.icesupplier,Ice Supplier
+food.importedfood,Imported Food Market
+food.jpsweets.taiyaki,Taiyaki Cafe
+food.milkshakebars,Milkshake Bar
+food.nasilemak,Nasi Lemak
+food.oliveoil,Olive Oil Shop
+food.organic_stores,Organic Food Store
+food.tea,Tea
+food.torshi,Torshi
+food.wineries,Winery
+food.wineries.winetastingroom,Wine Tasting Room
+food.zapiekanka,Zapiekanka
+health,Health & Medical
+health.c_and_mh,Mental Health Service
+health.c_and_mh.psychoanalysts,Psychoanalyst
+health.c_and_mh.psychologists,Psychology
+health.c_and_mh.psychotherapists,Psychotherapy
+health.cannabisreferrals,Medical Cannabis Referrals
+health.clinic,Medical Clinic
+health.clinic.travelclinics,Travel Clinic
+health.clinic.womens_healthclinic,Women's Health Clinic
+health.dentalhygienists,Dental Hygienist
+health.dentalhygienists.dentalhygeiniststorefront,Dental Hygienist Storefront
+health.dentalhygienists.dentalhygienistsmobile,Mobile Dental Hygienist
+health.dentists,Dentist
+health.dentists.endodontists,Endodontics
+health.dentists.generaldentistry,General Dentist
+health.dentists.oralsurgeons,Oral Surgery
+health.dentists.orthodontists,Orthodontistry
+health.dentists.pediatric_dentists,Pediatric Dentistry
+health.diagnosticservices,Diagnostic Services
+health.emergencyrooms,Emergency Room
+health.floatspa,Float Spa
+health.habilitativeservices,Habilitative Services
+health.halfwayhouses,Halfway House
+health.halotherapy,Halotherapy
+health.healthcarecenter,Healthcare Center
+health.healthcoach,Health Coach
+health.healthinsurance,Health Insurance Agency
+health.hearing_aids,Hearing Aid Store
+health.hospitals.fieldhospital,Field Hospital
+health.hospitals.quarantine_facility,Quarantine Facility
+health.hospitals.va_hospitals,Veterans Hospital
+health.ivhydration,IV Hydration
+health.lactationservices,Lactation Services
+health.laserlasikeyes,Lasik Surgery Center
+health.liceservices,Lice Service
+health.longtermcare,Long-Term Care
+health.massage_therapy,Massage Therapy
+health.medcenters.osteopaths,Osteopath
+health.physicians.obgyn.familyplanning,Family Planning Center
+health.physicians.oncologist,Oncology
+health.physicians.opthamalogists,Ophthalmology
+health.physicians.opthamalogists.retinaspecialists,Retina Specialist
+health.physicians.osteopathicphysicians,Osteopathic
+health.physicians.radiologists,Radiology
+health.physicians.rhematologists,Rheumatology
+health.physicians.underseamedicine,Undersea/Hyperbaric Medicine
+health.physicians.urologists,Urology
+health.rapetreatmentcenters,Rape Treatment Center
+homeservices.landscapearchitects,Landscape Design Service
+homeservices.landscaping,Landscaping
+homeservices.landscaping.lawnservices,Lawn Service
+homeservices.natural_gas_supplier,Natural Gas Supplier
+homeservices.televisionserviceproviders,Television Service Provider
+homeservices.vinylsiding,Vinyl Siding
+homeservices.waterheaterinstallrepair,Water Heater Installation Service
+homeservices.waterpurification,Water Purification Service
+homeservices.windowsinstallation,Windows Installation Service
+hotelstravel.airports.internationalairports,International Airport
+hotelstravel.campgrounds.tent,Tent
+hotelstravel.fixedbaseoperator,Fixed-Base Operator
+hotelstravel.guesthouses,Guest House
+hotelstravel.hotels.lodge,Lodge
+hotelstravel.hotels.residences,Residence
+hotelstravel.hotels.reststops,Rest Stop
+hotelstravel.transport.jeepneys,Jeepney
+industry.research,Research Institute
+industry.tradeunion,Trade Union
+industry.wholesalers.fooddistributors,Food Products Supplier
+industry.wholesalers.fueldistributors,Fuel Distributor
+industry.wholesalers.fueldistributors.industrial_oil_gas_supplier,Industrial Oil & Gas Supplier
+localservices.3dprinting,3D Printing Service
+localservices.grill_cleaning_and_repair,Grill Service
+localservices.jewelryrepair,Jewelry Repair Service
+localservices.junkremovalandhauling.garbagecollector,Garbage Collection Service
+localservices.laser_cutting_service,Laser Cutting Service
+localservices.quarry,Quarry
+localservices.refillstation.waterrefill,Water Refill Station
+localservices.reupholstery,Upholstery Shop
+localservices.wastedisposalsite,Waste Disposal Site
+localservices.watch_repair,Watch Repair Service
+localservices.waterdelivery,Water Delivery Service
+localservices.youth_club,Youth Club
+navigation,Navigation
+nightlife.karaoke,Karaoke
+publicservicesgovt.unemployment_office,Unemployment Office
+realestate.kitchenincubators,Kitchen Incubator
+realestate.university_housing,University Housing
+religiousorgs.jaintemple,Jain Temple
+religiousorgs.kingdomhall,Kingdom Hall of Jehovah's Witnesses
+religiousorgs.unitarianchurch,Unitarian Church
+restaurants.caribbean.jamaican,Jamaican Cuisine
+restaurants.giblets,Giblets
+restaurants.indpak.kashmiri,Kashmiri Cuisine
+restaurants.indpak.naga,Naga Cuisine
+restaurants.indpak.northindian,North Indian Cuisine
+restaurants.italian.napoletana,Neapolitan Cuisine
+restaurants.italian.venetian,Venetian Cuisine
+restaurants.japanese,Japanese Cuisine
+restaurants.japanese.donburi.kaisendon,Kaisendon
+restaurants.japanese.kaiseki,Kaiseki Cuisine
+restaurants.japanese.karaage,Karaage
+restaurants.japanese.kushikatsu,Kushikatsu
+restaurants.japanese.udon,Udon Restaurant
+restaurants.japanese.yakiniku,Yakiniku
+restaurants.japanese.yakisoba,Yakisoba
+restaurants.japanese.yakitori,Yakitori
+restaurants.jewish,Jewish Cuisine
+restaurants.mexican.jaliscan,Jaliscan Cuisine
+restaurants.mexican.northernmexican,North Mexican Cuisine
+restaurants.mexican.yucatan,Yucatan Cuisine
+restaurants.newcanadian,New Canadian Cuisine
+restaurants.uzbek,Uzbek Cuisine
+restaurants.vegan,Vegan Restaurant
+restaurants.vegetarian,Vegetarian Restaurant
+restaurants.venison,Venison
+restaurants.vietnamese,Vietnamese Cuisine
+restaurants.yugoslav,Yugoslavian Cuisine
+shopping.fashion.vintage,Vintage Store
+shopping.jewelry,Jewelry Store
+shopping.sportgoods.yogastore,Yoga Store
+shopping.vapeshops,Vaporizer (Vape) Store
