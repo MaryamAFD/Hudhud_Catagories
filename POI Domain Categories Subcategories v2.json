@@ -1,0 +1,189 @@
+{
+    "POI_top": [
+        {
+            "Health": [
+                {
+                    "Primary Care": [
+                        "Hospital",
+                        "Clinic",
+                        "Medical services center"
+                    ],
+                    "Pharmaceutical": [
+                        "Pharmacy"
+                    ],
+                    "Mental Health": [
+                        "Rehabilty center",
+                        "Developmental and behavioral disorders center"
+                    ],
+                    "Physio Therapy": [
+                        "Kinesitherapy center"
+                    ],
+                    "Labortory": [
+                        "Laboratory",
+                        "Blood Bank"
+                    ],
+                    "Pet Care": [
+                        "Veterinarian"
+                    ]
+                }
+            ],
+            "Education": [
+                {
+                    "Standard education": [
+                        "Kindergarten",
+                        "Primary School",
+                        "Elementary School",
+                        "Intermediate School",
+                        "High school"
+                    ],
+                    "Higher education": [
+                        "University",
+                        "Research Center"
+                    ],
+                    "Training center": [
+                        "Professional developement center",
+                        "Technical training center",
+                        "Institute"
+                    ]
+                }
+            ],
+            "Tourism & Culture": [
+                {
+                    "Religious": [
+                        "Mosque"
+                    ],
+                    "Art": [
+                        "Visual gallery",
+                        "Theater",
+                        "Opera",
+                        "Concert scene"
+                    ],
+                    "Antiquities": [
+                        "Archelogical sites",
+                        "Urban heritage sites",
+                        "Musuem",
+                        "Heritage village"
+                    ],
+                    "Entertainement": [
+                        "Zoo",
+                        "Aquarium",
+                        "Natural Wonders",
+                        "Amusement Park",
+                        "Garden",
+                        "Show hall",
+                        "Cinema"
+                    ],
+                    "Hospitality": [
+                        "Real estate",
+                        "Dormitory",
+                        "Hotel",
+                        "Motel",
+                        "Resort",
+                        "Hostel",
+                        "Apartment",
+                        "Travel Agency"
+                    ]
+                }
+            ],
+            "Services": [
+                {
+                    "Lifestyle": [
+                        "Gymnasium",
+                        "Swiming pool",
+                        "Stadium",
+                        "Barber",
+                        "Beauty salon",
+                        "Equestrian center",
+                        "SPA",
+                        "Meditation centers",
+                        "Library"
+                    ],
+                    "Automobile": [
+                        "Auto repair",
+                        "Gas Station",
+                        "Car wash"
+                    ],
+                    "Finance": [
+                        "ATM",
+                        "International Transfer Bank",
+                        "Commercial Banks",
+                        "Bank",
+                        "Foreign exchange markets"
+                    ],
+                    "Transportation": [
+                        "Airport",
+                        "Bus Station",
+                        "Metro Station",
+                        "Tramway Station",
+                        "Bus Terminal",
+                        "Car Parking",
+                        "Bike Station",
+                        "General fare"
+                    ],
+                    "Other": [
+                        "Prayer area",
+                        "Restroom",
+                        "Laundry"
+                    ],
+                    "Workshop": [
+                        "Tailor",
+                        "Factory"
+                    ]
+                }
+            ],
+            "Commercial": [
+                {
+                    "Shopping": [
+                        "Store",
+                        "Mall",
+                        "Pet supply",
+                        "Bakery",
+                        "Pastry",
+                        "Sweets Shop"
+                    ],
+                    "Food & beverages outlet": [
+                        "Restaurant",
+                        "Cafe",
+                        "Lounge",
+                        "Catering and drinks"
+                    ],
+                    "Automobile": [
+                        "Car Rental",
+                        "Car Dealer",
+                        "Auto material"
+                    ]
+                }
+            ],
+            "Institutions": [
+                {
+                    "Business & Cooperate": [
+                        "Lawyer office",
+                        "Coorporate office",
+                        "Press office",
+                        "Radio office",
+                        "TV office",
+                        "Publisher",
+                        "Real estate office"
+                    ],
+                    "Government & Administration": [
+                        "Administration",
+                        "Organisation",
+                        "Assembly",
+                        "Association"
+                    ],
+                    "Industry": [
+                        "Logistics",
+                        "Warehouse",
+                        "Cargo"
+                    ],
+                    "Public Affairs": [
+                        "Ministry",
+                        "Police station",
+                        "Military",
+                        "Local Post Office"
+                    ]
+                }
+            ]
+        }
+    ]
+}
